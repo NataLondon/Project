@@ -1,0 +1,31 @@
+
+.background{
+	width: 1080px;
+	height: 880px;
+}
+
+body {
+	background-image: url('../img/4.png');
+}
+
+img{
+	width: 1921px;
+	height:1370px;
+}
+
+
+.form {
+	padding-top: 380px;
+    margin-left: 250px;
+}
+
+
+
+.root{
+	width: 500px;
+	height: 400px;
+}
+
+.word{
+		width: 500px;
+}
